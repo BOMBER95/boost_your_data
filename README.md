@@ -1,2 +1,4 @@
-# boost_your_data
+# 数据可视化
 DATA VISUALISATION/ GGPLOT2/ PLOTLY/ SEABORN/ MATPLOTLIB
+
+记录 R与Python 制图碰到的坑
